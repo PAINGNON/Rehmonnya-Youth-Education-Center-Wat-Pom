@@ -1,14 +1,14 @@
 @font-face {
     font-family: font-mon;
-    src: url(fonts/font-mon/MyanmarCherryPro.ttf);
+    src: url(MyanmarCherryPro.ttf);
   }
 @font-face {
     font-family:font-th;
-    src: url(fonts/font-th/Maitree-Bold.ttf);
+    src: url(Maitree-Bold.ttf);
   }
 @font-face {
     font-family:font-en;
-    src: url(fonts/font-en/MAIAN_0.TTF);
+    src: url(MAIAN_0.TTF);
   }
 
 
